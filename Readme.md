@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alexCatus
 - 👀 I’m interested in building web applications
-- 🌱 I’m currently learning how to structure this very project
-- 💞️ I’m looking to collaborate on libraries to help angular
 - 📫 How to reach me : Alex.e.catus@gmail.com
 
 <!---
