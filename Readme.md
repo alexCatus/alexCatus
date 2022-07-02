@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexCatus
 - 👀 I’m interested in building web applications
-- 📫 How to reach me : Alex.e.catus@gmail.com
+- 📫 How to reach me : info@alexcatus.com
 
 <!---
 alexCatus/alexCatus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
